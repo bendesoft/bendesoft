@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Bende
+- 👀 I’m interested in WordPress and WooCommerce plugin development.
+- 📫 hello@bendesoft.hu
